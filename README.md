@@ -16,6 +16,6 @@ I apply clinical-grade signal processing and neural network architectures to Lay
 
 ### 📡 Let's Connect
 I am actively exploring the convergence of Biomedical AI, DeSci protocols, and high-performance DeFi infrastructure. 
-*   **X / Twitter:** [@YourHandle]
-*   **LinkedIn:** [Your LinkedIn URL]
-*   **Email:** [Your Email]
+*   **X / Twitter:** [@dramirbakhshaei]
+*   **LinkedIn:** [amirbakhshaei]
+*   **Email:** [amirbakhshaei@gmail.com]
