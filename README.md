@@ -1,21 +1,21 @@
-# 🧬 Amirhossein Bakhshaei, MD
-**Clinical Physician | Deep Learning Engineer | On-Chain Systems Architect**
+### Amir Bakhshaei, MD
+**Physician & Medical AI Engineer | Deep Learning • Biomedical Transformers • Clinical Reasoning**
 
-I apply clinical-grade signal processing and neural network architectures to Layer-2 transaction graphs and decentralized science (DeSci). My engineering philosophy is built on **First-Principles & "Life as Code"**—treating knowledge, workflows, and execution environments as reproducible, automated infrastructure.
+I am a medical doctor (MD) and machine learning engineer building reproducible deep learning models, biomedical knowledge graphs, and deterministic evaluation suites for high-stakes clinical medicine.
 
-### 🔬 Current Architecture & Research
-*   🐋 **WhaleDecode:** Building an autonomous, graph-based on-chain data indexer tracking smart money and micro-cap liquidity anomalies on Arbitrum.
-*   🧠 **Biomedical AI:** Researching deep learning applications in medical imaging, signal processing, and predictive clinical variables.
-*   ⚙️ **Multi-Agent Systems:** Designing autonomous workflow pipelines using LangGraph and localized LLMs.
+---
 
-### 🛠️ Tech Stack & Infrastructure
-*   **AI & Data Science:** PyTorch, TensorFlow, OpenCV, Pandas, Scikit-learn
-*   **On-Chain & L2:** Web3.py, Arbitrum RPC Execution, Smart Contract Analysis
-*   **Architecture & DevOps:** Python, Docker, PostgreSQL, Jupyter, Git
-*   **Quantitative Engineering:** Graph-based path-finding, Sequencer Physics, Multi-hop EVM simulation
+#### 🔬 Research & Engineering Pillars
+- **Computational Pharmacology & Adverse-Event Modeling:** Training Graph Neural Networks (GNNs), gradient-boosted trees, and molecular transformers (`ChemBERTa`) on FDA FAERS, DrugBank, and RxNorm to predict multi-drug/supplement metabolic cascades and organ toxicity.
+- **Clinical Foundation Models & Multimodal ML:** Developing and auditing time-series and multimodal transformers across EHR cohorts (MIMIC-IV), physiological waveforms, and medical imaging.
+- **Mechanistic Interpretability (XAI) & Clinical Evals:** Building clinician-in-the-loop verification harnesses, counterfactual perturbation tests, and attribution pipelines to expose shortcut learning and unfaithful reasoning in medical AI.
 
-### 📡 Let's Connect
-I am actively exploring the convergence of Biomedical AI, DeSci protocols, and high-performance DeFi infrastructure. 
-*   **X / Twitter:** [@dramirbakhshaei]
-*   **LinkedIn:** [amirbakhshaei]
-*   **Email:** [amirbakhshaei@gmail.com]
+#### ⚙️ Technical Stack
+- **Machine Learning & DL:** PyTorch, PyTorch Geometric, scikit-learn, XGBoost, LightGBM, HuggingFace `Transformers`
+- **Clinical Datasets & Ontologies:** MIMIC-IV, FDA FAERS, ChEMBL, DrugBank, RxNorm, SNOMED-CT, ICD-10, FHIR
+- **AI Engineering & Workflows:** Python, LangGraph, PydanticAI, FastAPI, Docker, Graph & Vector Databases
+
+#### 📫 Lab Links & Publications
+- **X (Daily Lab Log):** [x.com/dramirbakhshaei](https://x.com/dramirbakhshaei)
+- **YouTube (Code & Pathophysiology Walkthroughs):** [youtube.com/@dramirbakhshaei](https://youtube.com/@dramirbakhshaei)
+- **LinkedIn:** [linkedin.com/in/amirbakhshaei](https://linkedin.com/in/amirbakhshaei)
